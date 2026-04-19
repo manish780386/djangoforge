@@ -1,4 +1,3 @@
-
 # ⚡ DjangoForge
 
 > **One command. Full Django setup. Ready to code.**
@@ -10,7 +9,7 @@ DjangoForge sets up a complete Django project in seconds — virtual environment
 ## 🚀 Installation
 
 ```bash
-pip install djangoforge
+pip install django-forgekit
 ```
 
 ## ⚡ Usage
@@ -38,6 +37,8 @@ myproject/
 └── requirements.txt       ← All dependencies
 ```
 
+---
+
 ## 📦 Auto-installed packages
 
 | Package | Purpose |
@@ -64,22 +65,24 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Then open **http://127.0.0.1:8000** — DjangoForge welcome page milega! 🎉
+Open **http://127.0.0.1:8000** —  
 
 ---
 
-## 🛠️ settings.py auto-configuration
+## 🛠️ Auto-configured in settings.py
 
-DjangoForge automatically adds:
-- `rest_framework` and `corsheaders` to `INSTALLED_APPS`
-- `CorsMiddleware` at top of `MIDDLEWARE`
-- `REST_FRAMEWORK` config
-- `CORS_ALLOWED_ORIGINS` for localhost:3000 and localhost:5173
-- `load_dotenv()` for .env support
+| Setting | Value |
+|---|---|
+| `INSTALLED_APPS` | `rest_framework`, `corsheaders` added |
+| `MIDDLEWARE` | `CorsMiddleware` added at top |
+| `CORS_ALLOWED_ORIGINS` | localhost:3000, localhost:5173 |
+| `REST_FRAMEWORK` | Default permission & auth classes |
+| `load_dotenv()` | .env file loaded automatically |
 
 ---
 
-Made with ❤️ by DjangoForge
-=======
-# djangoforge
->>>>>>> dbcd5fc8ed90081457ad9ed6e3a1a5bc2fa3082f
+## 👨‍💻 Author
+
+Made with ❤️ by **Manish Dange**
+
+GitHub: [manishdange](https://github.com/manish780386/)
