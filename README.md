@@ -1,3 +1,4 @@
+
 # ⚡ DjangoForge
 
 > **One command. Full Django setup. Ready to code.**
@@ -79,3 +80,6 @@ DjangoForge automatically adds:
 ---
 
 Made with ❤️ by DjangoForge
+=======
+# djangoforge
+>>>>>>> dbcd5fc8ed90081457ad9ed6e3a1a5bc2fa3082f
