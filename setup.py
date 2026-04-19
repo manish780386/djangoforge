@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="",
+    name="django-forgekit",
     version="1.0.0",
     author="Manish Dange",
     author_email="dangemanish35@gmail.com",

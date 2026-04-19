@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+django_forgekit.egg-info/PKG-INFO
+django_forgekit.egg-info/SOURCES.txt
+django_forgekit.egg-info/dependency_links.txt
+django_forgekit.egg-info/entry_points.txt
+django_forgekit.egg-info/top_level.txt
+djangoforge/__init__.py
+djangoforge/cli.py
