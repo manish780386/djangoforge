@@ -1,0 +1,2 @@
+[console_scripts]
+djangoforge = djangoforge.cli:main

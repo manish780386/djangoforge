@@ -11,7 +11,7 @@ setup(
     description="⚡ One command Django project setup with DRF, CORS, dotenv & more",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/djangoforge",
+    url="https://github.com/manish780386/djangoforge.git",
     packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[],

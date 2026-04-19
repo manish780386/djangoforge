@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+djangoforge/__init__.py
+djangoforge/cli.py
+djangoforge.egg-info/PKG-INFO
+djangoforge.egg-info/SOURCES.txt
+djangoforge.egg-info/dependency_links.txt
+djangoforge.egg-info/entry_points.txt
+djangoforge.egg-info/top_level.txt
