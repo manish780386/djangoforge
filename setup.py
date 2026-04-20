@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="django-forgekit",
-    version="1.0.1",
+    version="1.0.2",
     author="Manish Dange",
     author_email="dangemanish35@gmail.com",
     description="⚡ One command Django project setup with DRF, CORS, dotenv & more",

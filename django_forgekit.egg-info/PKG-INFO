@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: django-forgekit
-Version: 1.0.1
+Version: 1.0.2
 Summary: ⚡ One command Django project setup with DRF, CORS, dotenv & more
 Home-page: https://github.com/manish780386/djangoforge.git
 Author: Manish Dange
